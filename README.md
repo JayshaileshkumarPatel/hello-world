@@ -1,2 +1,2 @@
 # hello-world
-hey, i am jay patel.
+hey, i am jay patel enrolled in CTN.
